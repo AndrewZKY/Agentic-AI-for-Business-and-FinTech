@@ -1,4 +1,4 @@
-**Report: Agentic AI for Business and FinTech (SEEM5660) – Homework 01**
+**Report: Agentic AI for Business and FinTech (FTEC5660) – Homework 01**
 
 **Student Name:** ZHANG, Kaiyu  
 **Student ID:** 1155238565  
